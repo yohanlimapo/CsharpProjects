@@ -1,0 +1,15 @@
+C:\Be a QA\CsharpProjects\Draft\obj\Debug\net8.0\Draft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Be a QA\CsharpProjects\Draft\obj\Debug\net8.0\Draft.AssemblyInfoInputs.cache
+C:\Be a QA\CsharpProjects\Draft\obj\Debug\net8.0\Draft.AssemblyInfo.cs
+C:\Be a QA\CsharpProjects\Draft\obj\Debug\net8.0\Draft.csproj.CoreCompileInputs.cache
+C:\Be a QA\CsharpProjects\Draft\obj\Debug\net8.0\Draft.sourcelink.json
+C:\Be a QA\CsharpProjects\Draft\bin\Debug\net8.0\Draft.exe
+C:\Be a QA\CsharpProjects\Draft\bin\Debug\net8.0\Draft.deps.json
+C:\Be a QA\CsharpProjects\Draft\bin\Debug\net8.0\Draft.runtimeconfig.json
+C:\Be a QA\CsharpProjects\Draft\bin\Debug\net8.0\Draft.dll
+C:\Be a QA\CsharpProjects\Draft\bin\Debug\net8.0\Draft.pdb
+C:\Be a QA\CsharpProjects\Draft\obj\Debug\net8.0\Draft.dll
+C:\Be a QA\CsharpProjects\Draft\obj\Debug\net8.0\refint\Draft.dll
+C:\Be a QA\CsharpProjects\Draft\obj\Debug\net8.0\Draft.pdb
+C:\Be a QA\CsharpProjects\Draft\obj\Debug\net8.0\Draft.genruntimeconfig.cache
+C:\Be a QA\CsharpProjects\Draft\obj\Debug\net8.0\ref\Draft.dll
